@@ -1,0 +1,31 @@
+ implementation of Single-Sing-On.
+
+
+Single sign-on (SSO) is an authentication method that enables users to securely authenticate with multiple applications and websites by using just one set of credentials.
+
+
+Steps:-
+1)Go to Auth0(https://auth0.com/ ) and create an account.
+
+
+2)Select account type as others, agree the terms and click on next.
+
+3)Give tenant domain name, select the region and click on create account.
+
+4)After creating your Account select Applications -> SSO Integrations and Click on “Create SSO Integration”.
+
+
+5)Now Select any Single Sign On Integration from below.
+
+
+6)I have choosen BambooHR SSO Integration and click on Continue button.
+
+7)Fill all the required details as shown below and click on save.
+
+
+8)Now select Authenication -> Social and click on “google-oauth2” link.
+
+9)Select “Try Connection”.
+
+
+10)Select your Google Account and it will redirect you to Result page.

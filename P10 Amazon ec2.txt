@@ -1,0 +1,19 @@
+
+Amazon Web Services (AWS)
+
+Amazon Web Series or AWS as we abbreviate it is one of the leading Cloud Service providers in the market. It was initiated in 2002. Back then, it offered only a few sets of tools and services. It was in 2003 when Chris Pinkham and Benjamin Black presented a paper that helped automate and revolutionize the AWS platform. They believed that the retail platform, Amazon, could serve a bigger and better purpose. This is when Amazon started looking at it from a larger business perspective, and we had services like Cloud Storage and Computation that came into existence by the end of 2004. It was Christopher Brown and his team that made this possible and Amazon services was cherished across the globe. The popularity of AWS is unfathomable, and we will understand what makes this 170+ Cloud Service Provider work well. Before that, let us go ahead and understand the Microsoft Azure Cloud Platform.
+
+Microsoft Azure
+
+Microsoft Azure, as the name suggests, is Microsoft’s Cloud platform that lets you test, build, deploy, and even manage applications that are placed in Microsoft Azure’s data centers or Availability Zones. It has all three service model solutions just like AWS, which are infrastructure as a Service, Platform as a Service, and Software as a Service. It lets you integrate with different open source and Microsoft Stack of products/tools and programming languages. It was announced in 2008 but was released on February 1, 2020, as Windows Azure and later on renamed to Microsoft Azure as we know it today. Azure is similar to AWS and offers a variety of products and solutions for app developers. The Azure platform offers good processing and computing power. It is capable of deploying and managing virtual machines at scale. Azure can also run large-scale “parallel batch computing” – a unique feature that it shares with AWS over the Google Cloud Platform.
+
+Google Cloud Platform (GCP)
+
+Google Cloud Platform (GCP), also known as Google Cloud, announced in 2008 its first Public Cloud Service Google App Engine which become public in 2011. It was the first Platform as a Service introduced by Google Cloud. Post that, Google introduced various service cloud services in the public domain. These services reside on the same cloud space where popular Google Services reside like Google Search, YouTube, Gmail, etc. Google is popularly known for its services in Machine Learning, Data Analytics, Compute, Storage, etc. I believe this is enough information about the Cloud Service providers we plan to compare. Let us go ahead and understand how these compare with each other.
+
+Conclusion :-
+
+Cloud Computing services has triggered a revolution in the IT industry. It has become a go-to factor for application implementation and hosting for all companies, whether big or small.
+According to a Gartner Survey Report, the market for public cloud is predicted to reach around
+$411 billion in 2020. This is bound to generate a wide range of job opportunities in this field. So, if you are planning to start a career in this domain, you are on the right track. Getting a cloud computing certification in this field will definitely help in learning and developing your skills.
+Become a cloud computing expert and join the elite group of highly paid IT professionals in the world.

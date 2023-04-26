@@ -1,0 +1,51 @@
+Iaas is also known as Hardware as a Service (HaaS). It is one of the layers of thecloudcomputing platform. It allows customers to outsource their IT infrastructures such as servers, networking, processing, storage, virtual machines, and other resources. Customers access theseresources on the Internet using a pay-as-per use model.
+
+IaaS provider provides the following services -
+
+ 1. Compute: Computing as a Service includes virtual central processing units andvirtual
+main memory for the Vms that is provisioned to the end- users.
+
+ 2. Storage: IaaS provider provides back-end storage for storing files. 
+
+ 3. Network: Network as a Service (NaaS) provides networking components such as routers, switches, and bridges for the Vms.
+
+ 4. Load balancers: It provides load balancing capability at the infrastructure layer
+
+
+
+
+
+
+1. Login the portal and search EC2 and click on it.
+
+
+2.Select Launch Instance.
+
+	
+
+3. Write name and tags as shown below.
+
+
+4. Select AWS.
+
+	
+
+5.Create a New Key Pair or you can select the default one.
+
+
+6.Set Network.
+
+
+
+7.Enable all the network settings as shown below.
+
+
+8.Set configure storage and click on launch Instance.
+
+	
+
+9.View all Instance.
+
+
+10.Here You can see we have created instance successfully and also can see all the details of instance. 
+

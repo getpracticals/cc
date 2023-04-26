@@ -1,0 +1,13 @@
+1.Open terminal in Ubuntu OS
+2. Install TinyCore on Ubuntu OS https://distro.ibiblio.org/tinycorelinux/downloads.html
+3. Write the following command
+$sudo apt-get install virt-manager
+4.$sudovirt-manager
+5. We will select Standalone and press enter
+6. It will show CouchDB interface bind address
+7.Now enter the password.
+8. Then confirm password.
+9. Select file -> New Virtual machine -> Import existing disk image -> Forward
+10. Browse the location OS type -> TinyCore and choose OS ->Generic defalt click on Forward.
+11. Then click on forward
+12. Now our virtual machine will started and press Enter.
